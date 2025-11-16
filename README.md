@@ -27,7 +27,7 @@ Bu mimari, özellikle büyük veri analizi ve sürdürülebilir yazılım geliş
 
 ---
 
-## 🏗️ Proje Mimarisi (Clean Code)
+## 🏗️ Proje Mimarisi 
 
 ```
 log_summarizer_project/
@@ -299,3 +299,4 @@ Sorular veya öneriler için: [your-email@example.com](mailto:your-email@example
 ---
 
 **Son Güncelleme:** 16 Kasım 2025 | **Versiyon:** 1.0.0
+
