@@ -281,9 +281,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır.
 
 ---
 
-## 📞 İletişim
-
-Sorular veya öneriler için: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
@@ -299,4 +296,5 @@ Sorular veya öneriler için: [your-email@example.com](mailto:your-email@example
 ---
 
 **Son Güncelleme:** 16 Kasım 2025 | **Versiyon:** 1.0.0
+
 
